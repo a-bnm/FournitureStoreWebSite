@@ -1,0 +1,13 @@
+Ce projet est un site vitrine developpé en lavarel et Bootstrap. Le but est de créé un site web vitrine pour un magasin de meubles. Les fonctionnalités du site:
+Landing page avec quelques produit affichés en bas.
+Une page de description detaillée des produits.
+Base de données MySql contenant les produits.
+Compte pour permettre aux emplyés ayant l'autorisation de modifier labase de donnée.
+Ajout d'un meuble.
+Modification d'un meuble.
+Suppression d'un meuble.
+
+Ce qui reste à faire:
+Modifier le design général.
+Ajouter des animations dans la page d'acceuil.
+Ajouter un dashboard.
